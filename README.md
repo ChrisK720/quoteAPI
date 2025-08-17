@@ -3,4 +3,5 @@
 ## Author: Christopher Kirathe
 
 ### Steps:
-- Install Docker on the server 
+- Install Docker on the server
+- Make sure git hub has the right secrets
